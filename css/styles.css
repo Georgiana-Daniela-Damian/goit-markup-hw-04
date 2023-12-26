@@ -128,7 +128,7 @@ ul {
   gap: 24px;
 }
 
-.firstred {
+.svg-icon {
   fill: var(--cloud-color);
 }
 
@@ -538,4 +538,50 @@ img {
   letter-spacing: 0.03em;
   text-transform: lowercase;
   background-color: var(--navy-blue-color);
+}
+
+.scp {
+  margin-bottom: 16px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--brand-color);
+}
+
+.ul-footer {
+  width: 40px;
+  height: 40px;
+}
+
+.li-footer {
+  width: 40px;
+  height: 40px;
+}
+
+.last-link-footer {
+  width: 100%;
+  height: 100%;
+  background-color: var(--button-color);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.last-link-footer:hover {
+  background-color: #31d0aa;
+}
+
+.last-link-footer:focus {
+  background-color: #31d0aa;
+}
+
+.svg-footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-inline-end: 0%;
 }
