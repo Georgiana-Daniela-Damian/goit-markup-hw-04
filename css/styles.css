@@ -540,7 +540,11 @@ img {
   background-color: var(--navy-blue-color);
 }
 
-.scp {
+.div-footer-child {
+  margin-right: 120px;
+}
+
+.sm-footer {
   margin-bottom: 16px;
   font-family: Roboto;
   font-size: 16px;
@@ -557,8 +561,8 @@ img {
 }
 
 .li-footer {
-  width: 40px;
-  height: 40px;
+  display: flex;
+  gap: 16px;
 }
 
 .last-link-footer {
