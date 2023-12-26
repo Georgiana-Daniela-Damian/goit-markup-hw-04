@@ -150,7 +150,10 @@ ul {
   gap: 24;
 }
 
-.instrag:hover,
+.instrag:hover {
+  background-color: #404bbf;
+}
+
 .instagr:focus {
   background-color: #404bbf;
 }
