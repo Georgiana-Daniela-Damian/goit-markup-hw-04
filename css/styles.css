@@ -69,7 +69,7 @@ ul {
 }
 
 .address-style-one {
-  margin-top: 25px;
+  margin-top: 45px;
   margin-left: 130px;
 }
 
@@ -110,6 +110,22 @@ ul {
   margin-top: 30px;
 }
 
+/* icons-pag-1 */
+
+.icons-container-top {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 112px;
+  background-color: #f4f4fd;
+  border-radius: 4px;
+  margin-bottom: 8px;
+}
+
+.icons-svg-top {
+  width: 64px;
+  height: 64px;
+}
 /* section-two */
 
 .section-two-style {
