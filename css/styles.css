@@ -75,6 +75,19 @@ ul {
 
 /* section-one */
 
+.title-all {
+  background-image: linear-gradient(
+      rgba(46, 47, 66, 0.7),
+      rgba(46, 47, 66, 0.7)
+    ),
+    url(../images/photo-fundal-pag1.jpeg);
+  background-color: var(--navy-blue-color);
+  max-width: 1440px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
 .section-one-style {
   display: flex;
   padding: 188px 0;
@@ -284,10 +297,6 @@ img {
 }
 
 /* section-one-title */
-
-.title-all {
-  background-color: var(--navy-blue-color);
-}
 
 .title {
   color: var(--white-color);
