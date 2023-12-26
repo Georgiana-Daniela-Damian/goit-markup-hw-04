@@ -129,7 +129,7 @@ ul {
 }
 
 .firstred {
-  background-color: #404bbf;
+  fill: var(--cloud-color);
 }
 
 .insta {
