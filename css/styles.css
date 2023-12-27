@@ -553,7 +553,7 @@ img {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--brand-color);
+  color: var(--white-color);
 }
 
 .ul-footer {
@@ -571,7 +571,7 @@ img {
 .last-link-footer {
   width: 100%;
   height: 100%;
-  background-color: var(--button-color);
+  background-color: #4d5ae5;
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -591,4 +591,5 @@ img {
   align-items: center;
   justify-content: center;
   padding-inline-end: 0%;
+  fill: var(--cloud-color);
 }
