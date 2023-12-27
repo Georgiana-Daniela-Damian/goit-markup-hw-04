@@ -6,6 +6,7 @@
   --cloud-color: #f4f4fd;
   --cornflow: #e7e9fc;
   --ocean: #404bbf;
+  --icon: #8e8f99;
 
   --logo-font-family: "Raleway", sans-serif;
   --text-font-family: "Roboto", sans-serif;
@@ -525,7 +526,7 @@ img {
 .title-custom {
   font-size: 36px;
   line-height: 1.11;
-  color: var(--dark-blue);
+  color: var(--navy-blue-color);
   margin-bottom: 72px;
   text-align: center;
 }
@@ -546,7 +547,7 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: var(--link-color);
+  color: var(--icon);
 }
 
 .link-custom:hover {
