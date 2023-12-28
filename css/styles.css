@@ -125,8 +125,8 @@ ul {
 
 .social {
   display: flex;
-  justify-content: center;
   gap: 24px;
+  margin-left: -25px;
 }
 
 .svg-icon {
@@ -615,6 +615,7 @@ img {
   gap: 16px;
   justify-content: center;
   list-style-type: none;
+  margin-left: -40px;
 }
 
 .li-footer {
